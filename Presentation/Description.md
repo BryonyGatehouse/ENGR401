@@ -4,4 +4,4 @@ Create and present a slideshow lasting two minutes. Slides will automatically pr
 
 I presented a slideshow on the biases of Machine Learning focusing on the way gender stereotypes are presented in Machine Translation.
 
-The points and slides I used for this presentation can be found in the [Notes](/Presentation/Notes.md).
+The points and slides I used for this presentation can be found in the [Notes](/Presentation/Notes.md). References can be found in the [References](/Presentation/References.md).
